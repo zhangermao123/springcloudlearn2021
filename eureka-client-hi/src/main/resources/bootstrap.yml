@@ -1,0 +1,24 @@
+server:
+  port: 8763
+
+spring:
+  application:
+    name: cloud-eureka-client
+  cloud:
+    config:
+      # 单服务实例指定uri
+#      uri: http://localhost:8770/
+      name: config-eureka-client-dev
+#      enabled: true
+#      profile: dev
+      label: master
+      #多服务使用diiscovery
+      discovery:
+        enabled: true
+        serviceId: config-server
+
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

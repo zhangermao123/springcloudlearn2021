@@ -1,0 +1,19 @@
+server:
+  port: 8761
+
+spring:
+  application:
+    name: eureka-server
+
+eureka:
+  instance:
+    hostname: localhost
+  server:
+    # 自我保护，当false的时候会导致部分关闭自我保护机制，单机版默认关闭
+    enable-self-preservation: true
+  client:
+    #表示这不是一个client
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defalutZone: https://${eureka.instance.hostname}:${server.port}/eureka/
