@@ -8,7 +8,7 @@ spring:
     config:
       # 单服务实例指定uri
 #      uri: http://localhost:8770/
-      name: config-eureka-client-dev
+      name: springlearn-dev
 #      enabled: true
 #      profile: dev
       label: master
