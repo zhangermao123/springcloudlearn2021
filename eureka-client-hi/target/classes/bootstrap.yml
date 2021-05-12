@@ -1,5 +1,5 @@
 server:
-  port: 8763
+  port: 8764
 
 spring:
   application:
@@ -16,16 +16,26 @@ spring:
       discovery:
         enabled: true
         serviceId: config-yserverst
-
+      #bus 设置
+      bus:
+        enabled: true
+        trace:
+          enabled: true
+  #添加rabbitMQ配置，用来多client 刷新消息队列
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: zhangwei
+    password: 123456
 
 management:
-#  endpoint:
-#    shutdown:
-#      enabled: false
+  endpoint:
+    shutdown:
+      enabled: false
   endpoints:
     web:
       exposure:
-        include: refresh
+        include: refresh,bus-refresh #根据需求开启refresh和bus-refresh
 
 eureka:
   client:

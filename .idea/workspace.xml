@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="606b6eb6-a62c-4be6-a386-9b37753f417e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/config-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/springlearn-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/springlearn-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client-hi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client-hi/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client-hi/src/main/java/com/zw/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client-hi/src/main/java/com/zw/controller/ClientController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client-hi/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client-hi/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client-hi/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client-hi/target/classes/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client-hi/target/classes/com/zw/controller/ClientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client-hi/target/classes/com/zw/controller/ClientController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="606b6eb6-a62c-4be6-a386-9b37753f417e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
