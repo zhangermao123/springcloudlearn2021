@@ -1,0 +1,8 @@
+server:
+  port: 8779
+
+spring:
+  application:
+    name: zipkin-client2
+  zipkin:
+    base-url: http://localhost:8777

@@ -4,7 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="606b6eb6-a62c-4be6-a386-9b37753f417e" name="Default Changelist" comment="" />
+    <list default="true" id="606b6eb6-a62c-4be6-a386-9b37753f417e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/eureka-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-client/src/main/java/com/zw/EurekaClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-client/src/main/java/com/zw/controller/ClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-client/src/main/java/com/zw/model/GetConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-client/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-client/src/test/java/com/zw/EurekaClientApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-zipkin/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zipkin-client/src/main/java/com/zw/controller/ClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zipkin-client/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zipkin-client2/src/main/java/com/zw/controller/AnotherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zipkin-client2/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-hi/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-hi/src/main/java/com/zw/EurekaClientApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-hi/src/main/java/com/zw/controller/ClientController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-hi/src/main/java/com/zw/model/GetConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-hi/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-hi/src/test/java/com/zw/EurekaClientApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-hi/target/classes/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-hi/target/classes/com/zw/EurekaClientApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-hi/target/classes/com/zw/controller/ClientController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-hi/target/classes/com/zw/model/GetConfig$UserInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-hi/target/classes/com/zw/model/GetConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-hi/target/test-classes/com/zw/EurekaClientApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,14 +60,14 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/eureka-client-hi/pom.xml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/eureka-client-hi/src/main/java/com/zw/EurekaClientApplication.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/eureka-client/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/eureka-client/src/main/java/com/zw/EurekaClientApplication.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/eureka-ribbon/pom.xml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/eureka-client-hi/src/main/resources/bootstrap.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/eureka-client/src/main/resources/bootstrap.yml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/zw/EurekaServerApplication.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/eureka-client-hi/src/test/java/com/zw/EurekaClientApplicationTests.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/eureka-client-hi/src/main/java/com/zw/controller/ClientController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/eureka-client/src/test/java/com/zw/EurekaClientApplicationTests.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/eureka-client/src/main/java/com/zw/controller/ClientController.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -61,38 +87,37 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1sA3ZIAC0lahGUn5ny3VOGQNfoW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zipkin-client2/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.123470545" />
     <property name="project.structure.side.proportion" value="0.12706482" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/zipkin-client2/src/main/resources" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/config-server-two/src/main/resources" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zw.controller" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.EurekaClientApplication">
+  <component name="RunManager" selected="Application.ZipkinClientApplication">
     <configuration name="ConfigServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zw.ConfigServerApplication" />
       <module name="config-server" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConfigServerTwoApplication" type="Application" factoryName="Application" editBeforeRun="true" singleton="false" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.ConfigServerTwoApplication" />
-      <module name="config-server-two" />
-      <extension name="GrepConsole" selectedProfileId="1620638102374" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,16 +129,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.EurekaServerApplication" />
-      <module name="eureka-server" />
+    <configuration name="ServerZipkinApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.ServerZipkinApplication" />
+      <module name="server-zipkin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServiceZuulApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.ServiceZuulApplication" />
-      <module name="service-zuul" />
+    <configuration name="ZipkinClient2Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.ZipkinClient2Application" />
+      <module name="zipkin-client2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipkinClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.ZipkinClientApplication" />
+      <module name="zipkin-client" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -121,17 +153,17 @@
     <list>
       <item itemvalue="Application.EurekaClientApplication" />
       <item itemvalue="Application.ConfigServerApplication" />
-      <item itemvalue="Application.EurekaServerApplication" />
-      <item itemvalue="Application.ConfigServerTwoApplication" />
-      <item itemvalue="Application.ServiceZuulApplication" />
+      <item itemvalue="Application.ServerZipkinApplication" />
+      <item itemvalue="Application.ZipkinClientApplication" />
+      <item itemvalue="Application.ZipkinClient2Application" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZipkinClientApplication" />
+        <item itemvalue="Application.ZipkinClient2Application" />
+        <item itemvalue="Application.ServerZipkinApplication" />
         <item itemvalue="Application.EurekaClientApplication" />
         <item itemvalue="Application.ConfigServerApplication" />
-        <item itemvalue="Application.EurekaServerApplication" />
-        <item itemvalue="Application.ConfigServerTwoApplication" />
-        <item itemvalue="Application.ServiceZuulApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +177,21 @@
       <updated>1620301620743</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassNotFoundException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/zipkin-client/src/main/java/com/zw/controller/ClientController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

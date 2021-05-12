@@ -27,17 +27,21 @@
     <modules>
         <module>config-server</module>
         <module>config-server-two</module>
-        <module>eureka-client-hi</module>
+        <module>eureka-client</module>
         <module>eureka-feign</module>
         <module>eureka-ribbon</module>
         <module>eureka-server</module>
         <module>service-zuul</module>
+        <module>server-zipkin</module>
+        <module>zipkin-client</module>
+        <module>zipkin-client2</module>
     </modules>
 
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
         </dependency>
     </dependencies>
 

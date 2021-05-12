@@ -6,11 +6,13 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-ribbon/pom.xml" />
-        <option value="$PROJECT_DIR$/eureka-feign/pom.xml" />
         <option value="$PROJECT_DIR$/service-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/config-server/pom.xml" />
         <option value="$PROJECT_DIR$/config-server-two/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/server-zikpin/pom.xml" />
+        <option value="$PROJECT_DIR$/zikpin-client/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin-client2/pom.xml" />
       </list>
     </option>
   </component>
