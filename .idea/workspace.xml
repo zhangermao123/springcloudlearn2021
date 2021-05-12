@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="606b6eb6-a62c-4be6-a386-9b37753f417e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/springlearn-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server-two/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server-two/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/springlearn-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/springlearn-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-hi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client-hi/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-hi/src/main/java/com/zw/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client-hi/src/main/java/com/zw/controller/ClientController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka-client-hi/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client-hi/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-hi/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client-hi/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-hi/target/classes/com/zw/controller/ClientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client-hi/target/classes/com/zw/controller/ClientController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +84,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.123470545" />
     <property name="project.structure.side.proportion" value="0.12706482" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -87,7 +92,7 @@
       <recent name="$PROJECT_DIR$/config-server-two/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConfigServerApplication">
+  <component name="RunManager" selected="Application.EurekaClientApplication">
     <configuration name="ConfigServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zw.ConfigServerApplication" />
       <module name="config-server" />
@@ -133,10 +138,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConfigServerApplication" />
         <item itemvalue="Application.EurekaClientApplication" />
-        <item itemvalue="Application.ConfigServerTwoApplication" />
+        <item itemvalue="Application.ConfigServerApplication" />
         <item itemvalue="Application.EurekaServerApplication" />
+        <item itemvalue="Application.ConfigServerTwoApplication" />
         <item itemvalue="Application.ServiceZuulApplication" />
       </list>
     </recent_temporary>

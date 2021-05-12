@@ -15,8 +15,17 @@ spring:
       #多服务使用diiscovery
       discovery:
         enabled: true
-        serviceId: config-server
+        serviceId: config-yserverst
 
+
+management:
+#  endpoint:
+#    shutdown:
+#      enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: refresh
 
 eureka:
   client:

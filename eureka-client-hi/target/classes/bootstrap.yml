@@ -8,15 +8,24 @@ spring:
     config:
       # 单服务实例指定uri
 #      uri: http://localhost:8770/
-      name: config-eureka-client-dev
+      name: springlearn-dev
 #      enabled: true
 #      profile: dev
       label: master
       #多服务使用diiscovery
       discovery:
         enabled: true
-        serviceId: config-server
+        serviceId: config-yserverst
 
+
+management:
+#  endpoint:
+#    shutdown:
+#      enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: refresh
 
 eureka:
   client:

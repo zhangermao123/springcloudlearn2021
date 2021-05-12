@@ -1,5 +1,5 @@
 data:
-  env: config-eureka-dev
+  env: test-springlearn dev
   user:
-    username: config-learn-dev
+    username: test
     password: 1291029102
