@@ -5,31 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="606b6eb6-a62c-4be6-a386-9b37753f417e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/eureka-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-client/src/main/java/com/zw/EurekaClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-client/src/main/java/com/zw/controller/ClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-client/src/main/java/com/zw/model/GetConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-client/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-client/src/test/java/com/zw/EurekaClientApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-zipkin/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkin-client/src/main/java/com/zw/controller/ClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkin-client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkin-client2/src/main/java/com/zw/controller/AnotherController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkin-client2/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client-hi/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client-hi/src/main/java/com/zw/EurekaClientApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client-hi/src/main/java/com/zw/controller/ClientController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client-hi/src/main/java/com/zw/model/GetConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client-hi/src/main/resources/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client-hi/src/test/java/com/zw/EurekaClientApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client-hi/target/classes/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client-hi/target/classes/com/zw/EurekaClientApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client-hi/target/classes/com/zw/controller/ClientController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client-hi/target/classes/com/zw/model/GetConfig$UserInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client-hi/target/classes/com/zw/model/GetConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client-hi/target/test-classes/com/zw/EurekaClientApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-ribbon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-ribbon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-ribbon/src/main/java/com/zw/controller/RibbonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-ribbon/src/main/java/com/zw/controller/RibbonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-zipkin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server-zipkin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-zipkin/src/main/java/com/zw/ServerZipkinApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-zipkin/src/main/java/com/zw/ServerZipkinApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-zipkin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server-zipkin/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server-zuul/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-zuul/src/main/java/com/zw/ServiceZuulApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-zuul/src/main/java/com/zw/ServiceZuulApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-zuul/src/main/java/com/zw/filter/MyZuulFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-zuul/src/main/java/com/zw/filter/MyZuulFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-zuul/src/main/java/com/zw/model/CommonError.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-zuul/src/main/java/com/zw/model/CommonError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-zuul/src/main/java/com/zw/validator/ParameterValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-zuul/src/main/java/com/zw/validator/ParameterValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-zuul/src/main/java/com/zw/validator/TokenValidatorlmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-zuul/src/main/java/com/zw/validator/TokenValidatorlmp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-zuul/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server-zuul/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-zuul/src/test/java/com/zw/ServiceZuulApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-zuul/src/test/java/com/zw/ServiceZuulApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zipkin-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zipkin-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zipkin-client/src/main/java/com/zw/ZipkinClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/zipkin-client/src/main/java/com/zw/ZipkinClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zipkin-client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/zipkin-client/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zipkin-client2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zipkin-client2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zipkin-client2/src/main/java/com/zw/ZipkinClient2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/zipkin-client2/src/main/java/com/zw/ZipkinClient2Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zipkin-client2/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/zipkin-client2/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zipkin-client2/src/test/java/com/zw/ZipkinClient2ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/zipkin-client2/src/test/java/com/zw/ZipkinClient2ApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,21 +110,7 @@
       <recent name="com.zw.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ZipkinClientApplication">
-    <configuration name="ConfigServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.ConfigServerApplication" />
-      <module name="config-server" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EurekaClientApplication" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.EurekaClientApplication" />
-      <module name="eureka-client" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ZipkinClient2ApplicationTests.contextLoads">
     <configuration name="ServerZipkinApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zw.ServerZipkinApplication" />
       <module name="server-zipkin" />
@@ -150,20 +132,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZipkinClient2ApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zipkin-client2" />
+      <option name="PACKAGE_NAME" value="com.zw" />
+      <option name="MAIN_CLASS_NAME" value="com.zw.ZipkinClient2ApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipkinClient2ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zipkin-client2" />
+      <option name="PACKAGE_NAME" value="com.zw" />
+      <option name="MAIN_CLASS_NAME" value="com.zw.ZipkinClient2ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.EurekaClientApplication" />
-      <item itemvalue="Application.ConfigServerApplication" />
       <item itemvalue="Application.ServerZipkinApplication" />
       <item itemvalue="Application.ZipkinClientApplication" />
       <item itemvalue="Application.ZipkinClient2Application" />
+      <item itemvalue="JUnit.ZipkinClient2ApplicationTests" />
+      <item itemvalue="JUnit.ZipkinClient2ApplicationTests.contextLoads" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ZipkinClient2ApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.ZipkinClient2ApplicationTests" />
         <item itemvalue="Application.ZipkinClientApplication" />
         <item itemvalue="Application.ZipkinClient2Application" />
         <item itemvalue="Application.ServerZipkinApplication" />
-        <item itemvalue="Application.EurekaClientApplication" />
-        <item itemvalue="Application.ConfigServerApplication" />
       </list>
     </recent_temporary>
   </component>

@@ -22,6 +22,7 @@
       <module name="eureka-clent-hi" target="8" />
       <module name="eureka-client-hi" target="8" />
       <module name="service-conifg-server" target="8" />
+      <module name="service-zuul" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

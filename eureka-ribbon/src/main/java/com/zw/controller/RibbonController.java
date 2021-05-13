@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @ClassName springclound2021
- * @Descripation TODO
+ * @Descripation 仪表盘地址http://localhost:8764/hystrix srpingboot2.0 需要添加 EnableCircuitBreaker 对应Hystrix
  * @Author zhangwei
  * @Date 2021-05-07 下午2:53
  * @Version 1.0
